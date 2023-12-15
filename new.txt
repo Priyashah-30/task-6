@@ -1,2 +1,7 @@
 one
 two
+<<<<<<< HEAD
+=======
+third 
+four
+>>>>>>> 89217ee (fourth)
